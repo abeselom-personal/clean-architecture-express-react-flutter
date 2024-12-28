@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d76ee66a-b8dd-405b-9f69-50e59b2822f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/kotlin/com/example/flutter_clean_architecture_template/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/assets/images/noInternet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/assets/images/somethingWentWrong.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/assets/languages/am.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/assets/languages/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/assets/languages/om.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/assets/languages/ti.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/constants/api_constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/constants/label_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/constants/local_storage_constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/localization/app_localization.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/network/errors/exceptions.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/network/errors/failures.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/routes/routes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/service_locator/service_locator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/theme/app_colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/theme/app_font_size.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/theme/app_text_style.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/theme/app_theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/usecase/usecase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/core/utils/helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/data/data_sources/local/abstract_auth_local_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/data/data_sources/local/auth_local_data_source_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/data/data_sources/remote/abstract_auth_remote_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/data/data_sources/remote/auth_remote_data_source_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/data/models/user_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/data/repositories/auth_repository_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/domain/entities/user_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/domain/repositories/abstract_auth_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/domain/usecases/cache_token_usecase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/domain/usecases/fetch_token_usecase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/domain/usecases/login_usecase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/domain/usecases/signup_usecase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/presentation/bloc/authentication_bloc/authentication_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/presentation/bloc/authentication_bloc/authentication_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/presentation/bloc/authentication_bloc/authentication_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/presentation/bloc/login_bloc/login_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/presentation/bloc/login_bloc/login_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/presentation/bloc/login_bloc/login_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/presentation/bloc/signup_bloc/signup_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/presentation/bloc/signup_bloc/signup_event.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/presentation/bloc/signup_bloc/signup_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/auth/presentation/screens/auth_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/features/home/presentation/screens/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/data/data_sources/local/abstract_settings_local_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/data/data_sources/local/settings_local_data_source_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/data/models/app_language_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/data/repositories/settings_repository_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/domain/entities/app_language_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/domain/repositories/abstract_settings_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/domain/usecases/change_language_usecase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/domain/usecases/fetch_current_language_usecase.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/presentation/bloc/language_cubit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/presentation/bloc/language_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/presentation/widgets/custom_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/presentation/widgets/error_container.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/lib/src/shared/services/notification_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/linux/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/linux/runner/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/linux/runner/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/linux/runner/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/mobile/windows/runner/win32_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/components.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/eslint.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/eslint.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/postcss.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/public/file.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/globe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/public/globe.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/public/next.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/public/vercel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/window.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/public/window.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/dashboard/components/date-range-picker.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/dashboard/components/date-range-picker.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/dashboard/components/main-nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/dashboard/components/main-nav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/dashboard/components/overview.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/dashboard/components/overview.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/dashboard/components/recent-sales.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/dashboard/components/recent-sales.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/dashboard/components/search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/dashboard/components/search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/dashboard/components/team-switcher.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/dashboard/components/team-switcher.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/dashboard/components/user-nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/dashboard/components/user-nav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/dashboard/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/dashboard/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-register/account-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-register/account-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-register/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-register/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/components/columns.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/components/columns.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/components/data-table-column-header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/components/data-table-column-header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/components/data-table-faceted-filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/components/data-table-faceted-filter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/components/data-table-pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/components/data-table-pagination.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/components/data-table-row-actions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/components/data-table-row-actions.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/components/data-table-toolbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/components/data-table-toolbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/components/data-table-view-options.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/components/data-table-view-options.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/components/data-table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/components/data-table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/data/data.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/data/data.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/data/schema.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/data/schema.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/(authorized)/vehicle-view/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/(authorized)/vehicle-view/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/app/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/app-loader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/app-loader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/app-sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/app-sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/login-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/login-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/nav-main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/nav-main.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/nav-projects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/nav-projects.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/nav-user.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/nav-user.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/team-switcher.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/team-switcher.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/accordion.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/accordion.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/avatar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/avatar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/badge.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/badge.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/breadcrumb.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/breadcrumb.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/calendar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/calendar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/checkbox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/checkbox.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/collapsible.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/collapsible.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/command.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/command.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/dialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/dialog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/dropdown-menu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/dropdown-menu.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/input.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/input.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/label.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/label.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/popover.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/popover.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/select.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/select.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/separator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/separator.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/sheet.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/sheet.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/skeleton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/skeleton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/spinner.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/spinner.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/table.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/table.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/tabs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/tabs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/toast.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/toast.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/toaster.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/toaster.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/ui/tooltip.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/components/ui/tooltip.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/hooks/use-mobile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/hooks/use-mobile.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/hooks/use-toast.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/hooks/use-toast.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/services/authService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/services/authService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/services/vehicleService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/services/vehicleService.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/stores/vehicleStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/stores/vehicleStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/types/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/types/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/types/vehicle.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/types/vehicle.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/utils/authGuard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/utils/authGuard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/utils/axiosInstance.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/src/utils/axiosInstance.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/website/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EyosiyasAligas&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abeselom-personal/clean-architecture-express-react-flutter.git&quot;,
+    &quot;accountId&quot;: &quot;f4219311-f212-4832-8ffd-cf13823f9597&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2qbbNSAnnm85ec97ej2Tk4GMCjN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hp/OneDrive/Documents/GitHub/clean-architecture-express-react-flutter/frontend/mobile",
+    "settings.editor.selected.configurable": "dart.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\OneDrive\Documents\GitHub\clean-architecture-express-react-flutter\frontend\mobile" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\OneDrive\Documents\GitHub\clean-architecture-express-react-flutter\frontend\website" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/frontend/mobile/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d76ee66a-b8dd-405b-9f69-50e59b2822f5" name="Changes" comment="" />
+      <created>1734934181897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734934181897</updated>
+    </task>
+    <servers />
+  </component>
+</project>
