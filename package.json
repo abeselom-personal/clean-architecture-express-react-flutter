@@ -1,0 +1,18 @@
+{
+    "name": "fullstack-app",
+    "version": "1.0.0",
+    "author": "abeselom solomon",
+    "scripts": {
+        "start": "concurrently \"npm run server\" \"npm run client\"",
+        "server": "nodemon --prefix backend backend/server.js",
+        "client": "next start --port 3000 --prefix frontend",
+        "dev": "concurrently \"npm run dev-server\" \"npm run dev-client\"",
+        "dev-server": "nodemon --prefix backend backend/server.js",
+        "dev-client": "next dev --port 3000 --prefix frontend"
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.2"
+    },
+    "dependencies": {
+    }
+}
